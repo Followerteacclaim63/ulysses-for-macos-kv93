@@ -1,4 +1,4 @@
-#  
+#  Enhance Ulysses for macOS with Ulysses for macOS professional Workflow: markdown support & goal tracking, the #1 workflow. Includes markdown support and goal tracking for a
 
 
 
